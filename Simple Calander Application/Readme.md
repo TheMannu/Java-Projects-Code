@@ -24,11 +24,11 @@ The Calendar Application, crafted with Java Swing, is a desktop tool designed fo
 10. **Easy Deployment:** Leveraging Java Swing, a standard Java library, ensures straightforward compilation and deployment across various platforms, minimizing setup complexities.
 
 This Calendar Application redefines event management with its blend of intuitive design, visual clarity, and robust functionality, making it an indispensable tool for users seeking efficient schedule organization.
-#### Calendar Application
+## Calendar Application
 
 This is a simple calendar application built using Java Swing. It allows users to add, edit, and delete events with their corresponding dates.
 
-#### Steps to Run:
+### Steps to Run:
 
 1. **Compile the Code**: Compile the Java code using any Java compiler.
 
@@ -42,7 +42,7 @@ This is a simple calendar application built using Java Swing. It allows users to
     java CalendarApplication
     ```
 
-#### Functionality:
+### Functionality:
 
 - **Add Event**: Click the "Add Event" button to add a new event. Enter the event name and date in the prompted dialog boxes.
 
@@ -50,7 +50,7 @@ This is a simple calendar application built using Java Swing. It allows users to
 
 - **Delete Event**: Select an event from the list and click the "Delete Event" button to remove it from the calendar.
 
-#### Note:
+### Note:
 
 - Date format for event input is "yyyy-MM-dd".
 - Invalid date formats will prompt error messages.
